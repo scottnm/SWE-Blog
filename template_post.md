@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: __TITLE__
 ---
 
 ### What did you do this past week? ###

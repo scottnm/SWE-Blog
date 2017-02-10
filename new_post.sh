@@ -4,6 +4,7 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
+POST_TEMPLATE="template_post.md"
 POSTS_DIR="_posts/"
 DATE=$(date +%F)
 
@@ -24,8 +25,7 @@ if [ -f $POST_FILE_NAME ]
 then
     echo "Blog post with name already exists. Please delete first"
 else
-    echo $POST_NAME
-    echo $POST_FILE_NAME
-    touch $POST_FILE_NAME
+    sed -e "s#__TITLE__#$POST_NAME#" "$POST_TEMPLATE" > "$POST_FILE_NAME"
+    echo "New post: $POST_NAME @ $POST_FILE_NAME"
 fi
 
