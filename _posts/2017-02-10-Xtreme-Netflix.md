@@ -52,7 +52,7 @@ of my blog posts live. Essentially I wanted to be able to type
 
 `new_post.sh My New Blog Post`
 
-in the command line and get a file named **<today's date>-My-New-Blog-Post.md** in the **_posts/** directory with the
+in the command line and get a file named `<today's date>-My-New-Blog-Post.md` in the `_posts/` directory with the
 with the same headers that I use for every blog post prewritten. To accomplish this I needed to know how to loop over
 the arguments supplied to my script. Instead of poking around Stack Overflow for an answer I was able to look at how I
 had previously accomplished a similar task in an old script which sped the task up tenfold.
