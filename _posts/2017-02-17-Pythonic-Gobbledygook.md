@@ -179,18 +179,15 @@ how a subset of the industry with a more focused problem-domain views these core
 principles. My tip-of-the-week is to check out talks by two well renowned
 developers in the videogame industry,
 [Jonathan Blow's](https://youtu.be/5Nc68IdNKdg) &
-[Mike Action's Data-Oriented Design]
-(https://www.youtube.com/watch?v=rX0ItVEVjHc).
-These lectures look at programming and language design from the perspective of
+[Mike Action's Data-Oriented Design](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+. These lectures look at programming and language design from the perspective of
 developing highly effecient programs and discuss how what we learn as
 students actually hurts our ability to make efficient software.
 
 Some other interesting lectures that I'd recommend checking out are
 
-* [Brian Will's Object Oriented Programming is Bad]
-(https://www.youtube.com/watch?v=QM1iUe6IofM)
-* [Abner Coimbre's What Programming is Never About]
-(https://www.youtube.com/watch?v=Lzc3HcIgXis)
+* [Brian Will's Object Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
+* [Abner Coimbre's What Programming is Never About](https://www.youtube.com/watch?v=Lzc3HcIgXis)
 
 I think it's good to watch these lectures not as a call-to-arms to dogmatically
 drop everything you learned in school or despise OOP, but to get an
