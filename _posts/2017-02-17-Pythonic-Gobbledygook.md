@@ -178,9 +178,9 @@ that we learn in school are pretty useful, but sometimes it's interesting to see
 how a subset of the industry with a more focused problem-domain views these core
 principles. My tip-of-the-week is to check out talks by two well renowned
 developers in the videogame industry,
-[Jonathan Blow's](https://youtu.be/5Nc68IdNKdg) &
-[Mike Action's Data-Oriented Design](https://www.youtube.com/watch?v=rX0ItVEVjHc)
-. These lectures look at programming and language design from the perspective of
+[Jonathan Blow's talk on a programming language for games](https://youtu.be/5Nc68IdNKdg) &
+[Mike Action's Data-Oriented Design](https://www.youtube.com/watch?v=rX0ItVEVjHc).
+These lectures look at programming and language design from the perspective of
 developing highly effecient programs and discuss how what we learn as
 students actually hurts our ability to make efficient software.
 
