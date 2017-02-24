@@ -63,8 +63,6 @@ control with
 little macros. My favorite trick is that you can use `/remind` to send reminders
 to people or channels at a certain time. This is useful for recurring team
 meetings and project deadlines.
-[Here's](https://get.slack.help/hc/en-us/articles/201259356-Slash-commands) a
-quick cheatsheet of some of it's other commands.
 
 3. **[Slack X Github](https://github.com/integrations/slack)** -
 Slack can now
