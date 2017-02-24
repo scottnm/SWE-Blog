@@ -47,7 +47,8 @@ class.
 Since we will be ramping up into our semester project soon, I thought I'd share
 some productivity tools and tips for working with/in teams:
 
-1. **[When2meet](https://www.when2meet.com/)** - When2meet is a tool that let's
+1. **[When2meet](https://www.when2meet.com/)**
+When2meet is a tool that let's
 you record everyone's availability for a given period of time so you can find
 the best time to meet. I prefer to use it in the days-of-the-week mode so that
 I can create weekly schedules with teams. This helps my team avoid having to
@@ -55,7 +56,7 @@ constantly play the "when are you available" game whenever they need to schedule
 a meeting.
 
 2. **[Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-personal-assistant-and-helpful-bot-)**
-- For those of you new to Slack, it is an instant messaging
+For those of you new to Slack, it is an instant messaging
 platform geared towards teams, and it sounds like Prof. Downing wants every team
 to utilize it. Slackbot is a commandable messaging bot with Slack that you can
 control with
@@ -65,24 +66,27 @@ meetings and project deadlines.
 [Here's](https://get.slack.help/hc/en-us/articles/201259356-Slash-commands) a
 quick cheatsheet of some of it's other commands.
 
-3. **[Slack X Github](https://github.com/integrations/slack)** - Slack can now
+3. **[Slack X Github](https://github.com/integrations/slack)**
+Slack can now
 be integrated with github so that when issues are closed or added, an alert is
 sent to one of your slack channels.
 
-4. **[Zenhub](https://www.zenhub.com/)** - Zenhub integrates a kanban board into
+4. **[Zenhub](https://www.zenhub.com/)**
+Zenhub integrates a kanban board into
 every repository you make
 on Github. This kanban board is useful for keeping track of each of the tasks
 that your team takes on. You'll always have a grasp of what should be done, what
 should be done soon, what is currently being worked on, and what has recently
 been completed.
 
-5. **[Github Projects](https://help.github.com/articles/about-projects/)** -
+5. **[Github Projects](https://help.github.com/articles/about-projects/)**
 This is the same thing as Zenhub, but it's native to
 Github and isn't as full-featured. I prefer Zenhub because there are features
 that I need that Github Projects doesn't have yet, but it may still be useful
 for your team.
 
-6. **[Lofi Hip Hop Radio](https://youtu.be/9Q0de5Su5w0)** - I really like
+6. **[Lofi Hip Hop Radio](https://youtu.be/9Q0de5Su5w0)**
+I really like
 listening to ambient, soft music while I work, and this YouTube livestream
 of Lofi Hip Hop really hits that spot. If you've been looking for some new
 work-music, give this station a shot!
