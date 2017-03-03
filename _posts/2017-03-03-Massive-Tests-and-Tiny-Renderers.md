@@ -46,7 +46,8 @@ triangles, z-buffering, barycentric coordinates, and texture mapping, and the
 output of the project is looking really sweet!
 
 ![left to right, top to bottom: lines, a triangle, wireframe mesh, bottom half of rasterization, bottom raster on face model, full rasterization, full rasterization on model, z-buffered model with basic shading, texture mapped model](https://scottnm.github.io/SWE-Blog/images/renderer_steps.png)
-* left to right, top to bottom: lines, a triangle, wireframe mesh, bottom half of rasterization, bottom raster on face model, full rasterization, full rasterization on model, z-buffered model with basic shading, texture mapped model * 
+
+*left to right, top to bottom: lines, a triangle, wireframe mesh, bottom half of rasterization, bottom raster on face model, full rasterization, full rasterization on model, z-buffered model with basic shading, texture mapped model* 
 
 I can say with confidence that if you are interested in working through this
 project, you should definitely give yourself a couple of hours to dig into it!
