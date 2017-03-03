@@ -45,10 +45,8 @@ that I've gotten to touch on drawing lines, drawing triangles, rasterizing
 triangles, z-buffering, barycentric coordinates, and texture mapping, and the
 output of the project is looking really sweet!
 
-![left to right, top to bottom: lines, a triangle, wireframe mesh, bottom half of rasterization, bottom raster on face model, full rasterization, full rasterization on model, z-buffered model with basic shading, texture mapped model](images/renderer_steps.png)
-> left to right, top to bottom: lines, a triangle, wireframe mesh,
-> bottom half of rasterization, bottom raster on face model, full rasterization,
-> full rasterization on model, z-buffered model with basic shading, texture mapped model
+![left to right, top to bottom: lines, a triangle, wireframe mesh, bottom half of rasterization, bottom raster on face model, full rasterization, full rasterization on model, z-buffered model with basic shading, texture mapped model](https://scottnm.github.io/SWE-Blog/images/renderer_steps.png)
+* left to right, top to bottom: lines, a triangle, wireframe mesh, bottom half of rasterization, bottom raster on face model, full rasterization, full rasterization on model, z-buffered model with basic shading, texture mapped model * 
 
 I can say with confidence that if you are interested in working through this
 project, you should definitely give yourself a couple of hours to dig into it!
@@ -56,11 +54,29 @@ It's a lot of fun.
 
 ### What will you do next week? ###
 
-
+Next week will be all about getting up to speed with Project 3: finalizing our
+idea, deciding on high level design and architecture, and breaking down our
+next milestone into smaller tasks that our team can tackle.
 
 ### What's my experience of the class? ###
 
+The class is going well. Despite my disappointment in my test grade, I feel
+confident that I can still do very well in this class and I'm excited to see
+how this final set of projects will turn out. Self-driven group projects always
+have the coolest results.
+
 ### Tip-of-the-week? ###
 
-When TDD isn't appropriate
+Whether professionally or as a hobbyist, I see myself as a video game developer,
+and as we learn about Test-driven Development, I'm curious to learn how video
+game devs view TDD strategies.
 
+Here are some articles that I found interesting over TDD in game development:
+
+[Test Driven Game Development Experiences](http://www.doolwind.com/blog/test-driven-game-development-experiences/)
+
+[Followup - Test Driven Game Development Experiences](http://www.doolwind.com/blog/test-driven-game-development/)
+
+[Why Games Coders Don't Use TDD and Why it Matters](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/)
+
+[Backwards is Forward - Making Better Games with TDD](http://gamesfromwithin.com/backwards-is-forward-making-better-games-with-test-driven-development)
