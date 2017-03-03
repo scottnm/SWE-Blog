@@ -81,3 +81,5 @@ Here are some articles that I found interesting over TDD in game development:
 [Why Games Coders Don't Use TDD and Why it Matters](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/)
 
 [Backwards is Forward - Making Better Games with TDD](http://gamesfromwithin.com/backwards-is-forward-making-better-games-with-test-driven-development)
+
+[When is it OK Not to TDD](http://gamesfromwithin.com/when-is-it-ok-not-to-tdd)
