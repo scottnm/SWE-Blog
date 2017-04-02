@@ -26,7 +26,7 @@ who drink beer at work and play ping pong at meetings?! Wow, we are just so
 great." Of course they still pitched their company (which in and of itself isn't
 bad at all), but during their presentation they discussed some really interesting
 technical challenges they faced working on Hip Chat. Better yet, they discussed
-the problem in a really straight forward that was easy to understand and almost
+the problem in a really straight forward way that was easy to understand and almost
 felt like advice for my own projects.
 
 ### What will you do next week? ###
