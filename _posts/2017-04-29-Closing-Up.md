@@ -5,7 +5,7 @@ title: Closing Up
 
 ### What did you do this past week? ###
 
-This past week, my team started preparing our the slide deck for our presentation.
+This past week, my team started preparing the slide deck for our presentation.
 It's very
 satisfying to reflect on how far our team has come, and I'm excited to present
 our work to the class. We've also started practicing how we will present to the
@@ -36,8 +36,8 @@ of the topics that I felt were unnecessary.
 
 * Overriding & Overloading Behavior: Object-oriented programming is an important
  practice to understand given how prevalent it is in the software engineering
- world. That being said, this class isn't about object-oriented programming
- class. Most of the overriding & overloading lecture material feels more like
+ world. That being said, this class isn't about object-oriented programming.
+ Most of the overriding & overloading lecture material feels more like
  Java trivia than anything that will help us solve problems better.
 
 As well, the design patterns lectures need some improvement. I think it's
