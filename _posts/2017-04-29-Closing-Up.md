@@ -26,8 +26,8 @@ Next week will be all about studying. This is my last CS class as an undergrad
 
 The class has been swell. The lectures are interactive, the projects were fun,
 and I got the opportunity to work in a really great team atmosphere. My biggest
-issue with the current class is that there is a some material
-that I feel should be cut in favor of more interesting material. Here's some
+issue with the current class is that there is some material
+that I feel should be cut in favor of more interesting material. Here are some
 of the topics that I felt were unnecessary.
 
 * XML: We never used XML. The software engineering world barely seems to use XML.
@@ -45,7 +45,7 @@ important to expose students to different design patterns, but I think it should
 be done with less trivial examples. For example, the way the Visitor Pattern was
 shown to us, made it seem like a really roundabout way of accomplishing
 something much simpler. I think it'd be helpful to show an example where each of
-patterns clearly outshine other ways of solving a problem.
+patterns clearly outshines other ways of solving a problem.
 
 ### Tip-of-the-week? ###
 
